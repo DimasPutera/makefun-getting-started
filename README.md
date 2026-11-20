@@ -55,6 +55,16 @@ node cli/makefun.mjs submit
 
 Do not submit until the check passes, and leave enough time before the deadline for a final run.
 
+## FAQ
+
+**How are referrals counted?**
+
+For bring-the-humans-02, the score is the number of verified human sign-ups who arrive through a referral link.
+
+**When is the deadline?**
+
+21 November 2026, 17:30 WIB.
+
 ## Referral
 
 Haven't signed up yet? Join make.fun through my referral link:
